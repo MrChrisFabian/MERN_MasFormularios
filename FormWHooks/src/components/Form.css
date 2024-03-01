@@ -15,6 +15,10 @@
     font-size: medium;
     margin-top: 10px;
 }
+.error{
+    color:red;
+    margin-left: 5px;
+}
 input{
     border: solid hwb(0 36% 63%) 1px;
     margin-inline-start: 10px;
@@ -22,4 +26,7 @@ input{
 }
 h4{
     text-align: center;
+}
+button{
+    margin-top: 25px;
 }
