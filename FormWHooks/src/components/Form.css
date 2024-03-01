@@ -1,0 +1,25 @@
+:root{
+    padding-inline:35% ;
+}
+
+.contenedor{
+    background-color: #f6f6f6;
+    color: hwb(0 36% 63%);
+    border: solid hwb(0 36% 63%) 1px;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-start;
+    font-size: medium;
+    margin-top: 10px;
+}
+input{
+    border: solid hwb(0 36% 63%) 1px;
+    margin-inline-start: 10px;
+    border-radius: 5px;
+}
+h4{
+    text-align: center;
+}
